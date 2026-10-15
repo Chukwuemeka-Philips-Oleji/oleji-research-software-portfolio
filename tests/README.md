@@ -1,0 +1,1 @@
+Run `python -m pytest` from the repository root. Tests are smoke checks for reproducibility and output structure; they do not validate scientific claims.
